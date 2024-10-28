@@ -1,4 +1,4 @@
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩𝟮ꫂ<br></h1>
+I'm<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩𝟮ꫂ<br></h1>
 <p align="center">
   <img src="https://telegra.ph/file/8adfac9d34c43ce444fbf.jpg" width="540" height="300" />
 </p>
@@ -53,9 +53,9 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/CheemsBot-MD2/blob/master/config/config.json#L26)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD2/blob/master/config/config.json#L37)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD2/blob/master/config/config.json#L28)
+- CHANGE OWNER NUMBER [Here0777202290](https://github.com/DGXeon/CheemsBot-MD2/blob/master/config/config.json#L26)
+- CHANGE OWNER NAME [Henry](https://github.com/DGXeon/CheemsBot-MD2/blob/master/config/config.json#L37)
+- CHANGE BOT NAME [Anime bot](https://github.com/DGXeon/CheemsBot-MD2/blob/master/config/config.json#L28)
 
 ## ` BUILDPACKS`
 
@@ -101,7 +101,7 @@ npm start
 ```bash
 apt install nodejs 
 apt install git 
-apt apt install ffmpeg 
+apt apt install ffmpeg it
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
