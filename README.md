@@ -1,10 +1,11 @@
 iii<h1 alig.Anime Master<br></h1>
-<p align="coner">
+<p align![Uploading IMG-20240829-WA0001.jpg…]()
+="center">
   <img src="https://Discord.ph/file/8adfac9d34c43ce444fbf.jpg" width="620" height=290" />
 </p>
 
 <p align="center">
-Anime Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Anime Master" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Anime Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Anime Master" target="_blank">Henry</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
