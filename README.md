@@ -4,7 +4,7 @@ iii<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩𝟮
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Anime Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Anime Master" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -15,12 +15,12 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/Henry color=red&style=flat-square"></a>
+<a href="https://github.com.Anime Master/followers"><img title="Followers" src="https://img.shields.io/github/followers/Henry color=red&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Henry/CheemsBot-MD2?color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD2?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD2?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD2"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD2/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD2?style=flat-square&color=green"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Henry/Henry Bot-MD2?color=red&style=flat-square"></a>
+<a href="https://github.com/Henry/Anime Bot-MD2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Henry/AnimeBot-MD2?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Hemry/AnimeBot-MD2"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD2/"><img title="Size" src="https://img.shields.io/github/repo-size/Henry/Æñïmê Bot-MD2?style=flat-triangle&color=grey"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD2&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
@@ -41,7 +41,6 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 - [`FamPay`](https://telegra.ph/file/07772022902d509ff9e54.jpg)
 
 <p align="left">
-Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
 </p>
 
 ## ```Bot Support Groups```
@@ -78,8 +77,8 @@ heroku/nodejs
 ## `Clone Repo & Installation dependencies`
 ```bash
 git clone https://github.com/DGXeon/CheemsBot-MD2.git
-cd CheemsBot-MD2
-npm start
+cd HemryBot-MD2
+npm s
 ```
 ## `For Termux/Ssh/Ubuntu`
 ```bash
@@ -94,7 +93,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/DGXeon/CheemsBot-MD2
-cd CheemsBot-MD2
+cd Anime bot-MD2
 npm start
 ```
 ## `For VPS`
@@ -106,7 +105,7 @@ apt apt install libwebp
 apt apt install imagemagick
 apt install bash
 git clone https://github.com/DGXeon/CheemsBot-MD2
-cd CheemsBot-MD2
+cd AnimeBot-MD2
 npm start
 ```
 ## `For 24/7 Activation`
