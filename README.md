@@ -1,6 +1,6 @@
-iii<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩𝟮ꫂ<br></h1>
-<p align="center">
-  <img src="https://telegra.ph/file/8adfac9d34c43ce444fbf.jpg" width="540" height="300" />
+iii<h1 alig.Anime Master<br></h1>
+<p align="coner">
+  <img src="https://Discord.ph/file/8adfac9d34c43ce444fbf.jpg" width="620" height=290" />
 </p>
 
 <p align="center">
