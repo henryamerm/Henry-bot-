@@ -1,4 +1,4 @@
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩𝟮ꫂ<br></h1>
+OOO<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩𝟮ꫂ<br></h1>
 <p align="center">
   <img src="https://telegra.ph/file/8adfac9d34c43ce444fbf.jpg" width="540" height="300" />
 </p>
@@ -31,14 +31,14 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/+263777202290"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/69933531032d509ff9e54.jpg)
+- [`FamPay`](https://telegra.ph/file/699032d509ff9e54.jpg)
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
@@ -53,8 +53,8 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/CheemsBot-MD2/blob/master/config/config.json#L26)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD2/blob/master/config/config.json#L37)
+- CHANGE OWNER NUMBER [0777202290(https://github.com/DGXeon/CheemsBot-MD2/blob/master/config/config.json#L26)
+- CHANGE OWNER NAME [Henry](https://github.com/DGXeon/CheemsBot-MD2/blob/master/config/config.json#L37)
 - CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD2/blob/master/config/config.json#L28)
 
 ## ` BUILDPACKS`
