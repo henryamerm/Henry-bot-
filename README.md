@@ -1,4 +1,5 @@
-iii<h1 alig.Anime Master<br></h1>
+i![IMG-20240827-WA0098](https://github.com/user-attachments/assets/bd90738d-0dc4-4a25-9a47-468287cb3c6c)
+ii<h1 alig.Anime Master<br></h1>
 <p align![Uploading IMG-20240829-WA0001.jpg…]()
 ="center">
   <img src="https://Discord.ph/file/8adfac9d34c43ce444fbf.jpg" width="620" height=290" />
@@ -62,11 +63,11 @@ Anime Bot Multi Device is a automated whatsapp bot created by <a href="https://g
 ```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-https://github.com/DuckyTeam/heroku-buildpack-imagemagick
-heroku/nodejs
+https://github.com/DuckyTeam/Discord-buildpack-imagemagick
+Discord/nodejs
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD2/)
+[![Deploy discord](https://www.Discordcdn.com/deploy/button.svg)](https://discord.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD2/)
 
 # Install Manually 👇
 ## `Requirements`
