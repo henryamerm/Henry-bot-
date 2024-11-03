@@ -1,8 +1,8 @@
-i![IMG-20240827-WA0098](https://github.com/user-attachments/assets/bd90738d-0dc4-4a25-9a47-468287cb3c6c)
+oki![IMG-20240827-WA0098](https://github.com/user-attachments/assets/bd90738d-0dc4-4a25-9a47-468287cb3c6c)
 ii<h1 alig.Anime Master<br></h1>
-<p align![Uploading IMG-20240829-WA0001.jpg…]()
-="center">
-  <img src="https://Discord.ph/file/8adfac9d34c43ce444fbf.jpg" width="620" height=290" />
+<p align="center">
+  <im![IMG-20240827-WA0098](https://github.com/user-attachments/assets/e97fa9b5-7baa-4e85-90a6-2c652fcfe19b)
+g src="https://Discord.ph/file/8adfac9d34c43ce444fbf.jpg" width="620" height=290" />
 </p>
 
 <p align="ceUploading IMG-20240829-WA0001.jpg…]()nter">
@@ -10,14 +10,16 @@ Anime Bot Multi Device is a automated whatsapp bot created by <a href="https://g
 </p>
 
 <p align="center">
-<a href="https://youtu.be/imFIX-Wrt3s"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="https://youtu.be/imFIX-Wrt3s"><img![IMG-20240830-WA0022](https://github.com/user-attachments/assets/99fcc65e-3afa-47c3-9f96-c30e93bfea74)
+ title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
 ------
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com.Anime Master/followers"><img title="Followers" src="https://img.shields.io/github/followers/Henry color=red&style=flat-square"></a>
+<a href="https://github.com.Anime Master/followers"><img![IMG-20240827-WA0098](https://github.com/user-attachments/assets/e296f8c6-9987-469f-aea4-7504d80abaab)
+="Followers" src="https://img.shields.io/github/followers/Henry color=red&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Henry/CheemsBot-MD2?color=blue&style=flat-square"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Henry/Henry Bot-MD2?color=red&style=flat-square"></a>
 <a href="https://github.com/Henry/Anime Bot-MD2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Henry/AnimeBot-MD2?label=Watchers&color=blue&style=flat-square"></a>
@@ -34,7 +36,8 @@ Anime Bot Multi Device is a automated whatsapp bot created by <a href="https://g
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/+263777202290"><img src="https://img.shields.io/badge/Contact Henry-25D366?style=for-the-badge&logo=whatsapp&grey and black dog" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=grey" />
+<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img ![Uploading IMG-20240829-WA0001.jpg…]()
+src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=grey" />
 <a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
@@ -67,7 +70,7 @@ https://github.com/DuckyTeam/Discord-buildpack-imagemagick
 Discord/nodejs
 ```
 
-[![Deploy discord](https://www.Discordcdn.com/deploy/button.svg)](https://discord.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD2/)
+[ discord deploy](https://www.Discordcdn.com/deploy/button.svg)](https://discord.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD2/)
 
 # Install Manually 👇
 ## `Requirements`
