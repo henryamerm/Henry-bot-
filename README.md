@@ -70,7 +70,7 @@ https://github.com/DuckyTeam/Discord-buildpack-imagemagick
 Discord/nodejs
 ```
 
-[ discord replits](https://www.ʀɛքʟɨtscdn.com/deploy/button.svg)](https://discord.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD2/)
+[ deploy replits](https://www.ʀɛքʟɨtscdn.com/deploy/button.svg)](https://discord.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD2/)
 
 # Install Manually 👇
 ## `Requirements`
