@@ -1,4 +1,4 @@
-oki![IMG-20240827-WA0098](https://github.com/user-attachments/assets/bd90738d-0dc4-4a25-9a47-468287cb3c6c)
+![IMG-20240827-WA0098](https://github.com/user-attachments/assets/bd90738d-0dc4-4a25-9a47-468287cb3c6c)
 ii<h1 alig.Anime Master<br></h1>
 <p align="center">
   <im![IMG-20240827-WA0098](https://github.com/user-attachments/assets/e97fa9b5-7baa-4e85-90a6-2c652fcfe19b)
@@ -70,7 +70,7 @@ https://github.com/DuckyTeam/Discord-buildpack-imagemagick
 Discord/nodejs
 ```
 
-[ deploy telegram}(https://www.ʀɛքʟɨtscdn.com/deploy/button.svg)](https://telegram.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD2/)
+[ deploy discord}(https://www.discordn.com/deploy/button.svg)](https:/discord.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD2/)
 
 # Install Manually 👇
 ## `Requirements`
